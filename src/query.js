@@ -22,7 +22,8 @@ module.exports.measures = {
   iap: 'iap',
   impressions: 'impressionsTotal',
   impressionsUnique: 'impressionsTotalUnique',
-  pageViewUnique: 'pageViewUnique'
+  pageViewUnique: 'pageViewUnique',
+  optin: 'optin'
 };
 
 module.exports.dimension = {
